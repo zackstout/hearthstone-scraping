@@ -1,3 +1,11 @@
-next projects:
+Next projects:
 - build this out to let users view info about user rating of cards across expansions/classes
 - build a javascript client to access NLTK via python scripts from the server
+- experiment with node-graphs to show similarity between words
+- come up with groupings of themes and words that fit with them and use that to analyze plays (guilt, death, appearance, magic, love, compassion, honesty) -- the task of finding out what a play is about, or means, primarily, or most easily, according to what words it uses
+- see which scenes which characters are in, and vice versa
+- 3d graph of characters (as strips on xy-plane) and number of lines as height (z-axis)
+- bonus: color the bars according to main sentiment at that point
+- match most-used words against specific speakers
+- match similarity-words against regular similarity, to see what's unusual about this particular text
+- TextBlob too has sentiment analysis -- so now we have three sources for it.
